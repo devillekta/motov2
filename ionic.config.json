@@ -1,0 +1,7 @@
+{
+  "name": "motov2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
